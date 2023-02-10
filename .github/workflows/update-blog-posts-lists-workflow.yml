@@ -18,7 +18,7 @@ jobs:
           comment_tag_name: "SADUKIE-BLOG-POST"
           commit_message: "Updating blog posts from sadukie.com"
           max_post_count: "4"
-          feed_list: "https://www.sadukie.com/"
+          feed_list: "https://www.sadukie.com/feed"
   update-readme-with-data-adventurer:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
@@ -29,4 +29,4 @@ jobs:
           comment_tag_name: "DA-BLOG-POST"
           commit_message: "Updating blog posts from Data Adventurer"
           max_post_count: "4"
-          feed_list: "https://www.data-adventurer.com/"
+          feed_list: "https://www.data-adventurer.com/feed"
