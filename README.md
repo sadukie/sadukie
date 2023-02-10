@@ -14,12 +14,12 @@
 - 🏅 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4025435?fullName=Sarah%20E%20Dutkiewicz) in Developer Technologies since 2009
 - ✍🏻Blogging at [Sadukie.com](https://www.sadukie.com)
 
-<!-- SADUKIE-POST-LIST:START -->
-<!-- SADUKIE-POST-LIST:END -->
+<!-- SADUKIE-BLOG-POST:START -->
+<!-- SADUKIE-BLOG-POST:END -->
 
 - 📊Blogging at [Data-Adventurer.com](https://www.data-adventurer.com)
 
-<!-- DA-POST-LIST:START -->
-<!-- DA-POST-LIST:END -->
+<!-- DA-BLOG-POST:START -->
+<!-- DA-BLOG-POST:END -->
 
 ## 🛠️ Technology Toolbelt
