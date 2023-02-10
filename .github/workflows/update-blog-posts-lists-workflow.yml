@@ -1,0 +1,32 @@
+name: Latest blog posts workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-sadukie:
+    name: Update this repos README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "SADUKIE-BLOG-POST"
+          commit_message: "Updating blog posts from sadukie.com"
+          max_post_count: "4"
+          feed_list: "https://www.sadukie.com/"
+  update-readme-with-data-adventurer:
+    name: Update this repos README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "DA-BLOG-POST"
+          commit_message: "Updating blog posts from Data Adventurer"
+          max_post_count: "4"
+          feed_list: "https://www.data-adventurer.com/"
