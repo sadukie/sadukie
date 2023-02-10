@@ -20,6 +20,10 @@
 - 📊Blogging at [Data-Adventurer.com](https://www.data-adventurer.com)
 
 <!-- DA-BLOG-POST:START -->
+- [Upcoming Appearances – Azure Cosmos DB Adventures!](https://data-adventurer.com/2023/01/26/upcoming-appearances-azure-cosmos-db-adventures/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-appearances-azure-cosmos-db-adventures)
+- [Azure Cosmos DB ❤️ PostgreSQL](https://data-adventurer.com/2022/11/02/azure-cosmos-db-%e2%9d%a4%ef%b8%8f-postgresql/?utm_source=rss&utm_medium=rss&utm_campaign=azure-cosmos-db-%25e2%259d%25a4%25ef%25b8%258f-postgresql)
+- [Azure Cosmos DB naming adventures](https://data-adventurer.com/2022/10/24/azure-cosmos-db-naming-adventures/?utm_source=rss&utm_medium=rss&utm_campaign=azure-cosmos-db-naming-adventures)
+- [User Group and Conference Talk Topics for 2022](https://data-adventurer.com/2022/02/04/user-group-and-conference-talk-topics-for-2022/?utm_source=rss&utm_medium=rss&utm_campaign=user-group-and-conference-talk-topics-for-2022)
 <!-- DA-BLOG-POST:END -->
 
 ## 🛠️ Technology Toolbelt
