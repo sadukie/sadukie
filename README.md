@@ -15,6 +15,10 @@
 - ✍🏻Blogging at [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Upcoming Appearances – Azure Cosmos DB Adventures!](https://www.sadukie.com/2023/01/26/upcoming-appearances-azure-cosmos-db-adventures/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-appearances-azure-cosmos-db-adventures)
+- [From the Desk of Mom, Professional Techie](https://www.sadukie.com/2023/01/25/from-the-desk-of-mom-professional-techie/?utm_source=rss&utm_medium=rss&utm_campaign=from-the-desk-of-mom-professional-techie)
+- [CodeMash 2023: Lightning Talks](https://www.sadukie.com/2023/01/20/codemash-2023-lightning-talks/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2023-lightning-talks)
+- [CodeMash 2023 Recap](https://www.sadukie.com/2023/01/20/codemash-2023-recap/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2023-recap)
 <!-- SADUKIE-BLOG-POST:END -->
 
 - 📊Blogging at [Data-Adventurer.com](https://www.data-adventurer.com)
