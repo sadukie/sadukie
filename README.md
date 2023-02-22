@@ -13,6 +13,7 @@
 - 🏅 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4025435?fullName=Sarah%20E%20Dutkiewicz) in Developer Technologies since 2009
 - 🎓 Bachelor of Science degree, [Computer Science and Engineering Technology](https://www.utoledo.edu/engineering/engineering-technology/cset/), University of Toledo
   - 📚 Favorite course was **Applied Programming Languages** - comparing programming languages by paradigms, domains, etc.
+- 💻[Tools I Use](tools.md)
 
 ## 🛠️ Technology Toolbelt
 
