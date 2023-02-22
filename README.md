@@ -1,18 +1,18 @@
-# 👋🏻 Welcome! I'm Sadukie!
+# 👋🏻 Welcome! I'm Sadukie
 
 ![Smiling Sadukie](images/sadukie-headshot.png)
 
 ## 👩🏻‍💻 About Me
 
 - 👩🏻 Sarah Dutkiewicz, a.k.a. Sadukie
-    - ▶️[Top 5 things to know about me](https://www.youtube.com/watch?v=h25u7zWUwoQ) - including how to say my name!
+  - ▶️[Top 5 things to know about me](https://www.youtube.com/watch?v=h25u7zWUwoQ) - including how to say my name!
 - Let's talk!
   - ❓ Ask me about how to grow your career as a technologist.
   - 🤝 [Contact me via <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://linkedin.com/in/sadukie)
   - <a href="https://twitter.com/sadukie"><img src="https://img.shields.io/twitter/follow/sadukie?style=social" alt="Twitter Badge"/></a>
 - 🏅 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4025435?fullName=Sarah%20E%20Dutkiewicz) in Developer Technologies since 2009
 - 🎓 Bachelor of Science degree, [Computer Science and Engineering Technology](https://www.utoledo.edu/engineering/engineering-technology/cset/), University of Toledo
-  - 📚 Favorite course was **Applied Programming Languages** - comparing programming languages by paradigms, domains, etc.
+  - 📚 Favorite course was **Applied Programming Languages** - which programming languages by paradigms, domains, etc.
 - 💻[Tools I Use](tools.md)
 
 ## 🛠️ Technology Toolbelt
@@ -64,7 +64,6 @@ These are some of the tools I use in my role as a general technologist.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" height="40" width="40" alt="PyTest" title="PyTest" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="40" width="40" alt="Selenium" title="Selenium" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" height="40" width="40" alt="Cucumber" title="Cucumber" />&nbsp;
-
 
 ### Databases
 
