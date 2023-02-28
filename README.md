@@ -82,10 +82,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Reflecting on My Career So Far](https://www.sadukie.com/2023/02/28/reflecting-on-my-career-so-far/?utm_source=rss&utm_medium=rss&utm_campaign=reflecting-on-my-career-so-far)
 - [Upcoming Community Engagements](https://www.sadukie.com/2023/02/23/upcoming-community-engagements/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-community-engagements)
 - [Upcoming Appearances – Azure Cosmos DB Adventures!](https://www.sadukie.com/2023/01/26/upcoming-appearances-azure-cosmos-db-adventures/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-appearances-azure-cosmos-db-adventures)
 - [From the Desk of Mom, Professional Techie](https://www.sadukie.com/2023/01/25/from-the-desk-of-mom-professional-techie/?utm_source=rss&utm_medium=rss&utm_campaign=from-the-desk-of-mom-professional-techie)
-- [CodeMash 2023: Lightning Talks](https://www.sadukie.com/2023/01/20/codemash-2023-lightning-talks/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2023-lightning-talks)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
