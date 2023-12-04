@@ -83,10 +83,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Unlock the Gift of the C# Spread Operator](https://www.sadukie.com/2023/12/03/unlock-the-gift-of-the-c-spread-operator/?utm_source=rss&utm_medium=rss&utm_campaign=unlock-the-gift-of-the-c-spread-operator)
 - [ChatGPT Adventures: Domain Storytelling for Elle Woods from Legally Blonde](https://www.sadukie.com/2023/09/05/chatgpt-adventures-domain-storytelling-for-elle-woods-from-legally-blonde/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-adventures-domain-storytelling-for-elle-woods-from-legally-blonde)
 - [Reflecting on My Career So Far](https://www.sadukie.com/2023/02/28/reflecting-on-my-career-so-far/?utm_source=rss&utm_medium=rss&utm_campaign=reflecting-on-my-career-so-far)
 - [Upcoming Community Engagements](https://www.sadukie.com/2023/02/23/upcoming-community-engagements/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-community-engagements)
-- [Upcoming Appearances – Azure Cosmos DB Adventures!](https://www.sadukie.com/2023/01/26/upcoming-appearances-azure-cosmos-db-adventures/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-appearances-azure-cosmos-db-adventures)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
