@@ -83,10 +83,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
-- [Unveiling Self-Confidence – Retrospective of 2023](https://www.sadukie.com/2023/12/30/unveiling-self-confidence-retrospective-of-2023/?utm_source=rss&utm_medium=rss&utm_campaign=unveiling-self-confidence-retrospective-of-2023)
-- [How to Become a T-Shaped Developer and Boost Your Career](https://www.sadukie.com/2023/12/05/how-to-become-a-t-shaped-developer-and-boost-your-career/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-become-a-t-shaped-developer-and-boost-your-career)
-- [Unlock the Gift of the C# Spread Operator](https://www.sadukie.com/2023/12/03/unlock-the-gift-of-the-c-spread-operator/?utm_source=rss&utm_medium=rss&utm_campaign=unlock-the-gift-of-the-c-spread-operator)
-- [ChatGPT Adventures: Domain Storytelling for Elle Woods from Legally Blonde](https://www.sadukie.com/2023/09/05/chatgpt-adventures-domain-storytelling-for-elle-woods-from-legally-blonde/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-adventures-domain-storytelling-for-elle-woods-from-legally-blonde)
+- [CodeMash 2024 – Don’t Build a Distributed Monolith](https://www.sadukie.com/2024/01/11/codemash-2024-dont-build-a-distributed-monolith/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-dont-build-a-distributed-monolith)
+- [CodeMash 2024 – Be an Ally for Mobile A11y](https://www.sadukie.com/2024/01/11/codemash-2024-be-an-ally-for-mobile-a11y/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-be-an-ally-for-mobile-a11y)
+- [Thinking Architecturally Workshop at CodeMash 2024](https://www.sadukie.com/2024/01/10/thinking-architecturally-workshop-at-codemash-2024/?utm_source=rss&utm_medium=rss&utm_campaign=thinking-architecturally-workshop-at-codemash-2024)
+- [EventStorming at CodeMash 2024](https://www.sadukie.com/2024/01/10/eventstorming-at-codemash-2024/?utm_source=rss&utm_medium=rss&utm_campaign=eventstorming-at-codemash-2024)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
