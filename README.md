@@ -83,10 +83,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [CodeMash 2024 – Conference Sessions Review List](https://www.sadukie.com/2024/01/14/codemash-2024-conference-sessions-review-list/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-conference-sessions-review-list)
 - [CodeMash 2024 – Don’t Build a Distributed Monolith](https://www.sadukie.com/2024/01/11/codemash-2024-dont-build-a-distributed-monolith/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-dont-build-a-distributed-monolith)
-- [CodeMash 2024 – Be an Ally for Mobile A11y](https://www.sadukie.com/2024/01/11/codemash-2024-be-an-ally-for-mobile-a11y/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-be-an-ally-for-mobile-a11y)
-- [Thinking Architecturally Workshop at CodeMash 2024](https://www.sadukie.com/2024/01/10/thinking-architecturally-workshop-at-codemash-2024/?utm_source=rss&utm_medium=rss&utm_campaign=thinking-architecturally-workshop-at-codemash-2024)
-- [EventStorming at CodeMash 2024](https://www.sadukie.com/2024/01/10/eventstorming-at-codemash-2024/?utm_source=rss&utm_medium=rss&utm_campaign=eventstorming-at-codemash-2024)
+- [CodeMash 2024: Alerts Don’t Suck, YOUR Alerts Suck](https://www.sadukie.com/2024/01/11/codemash-2024-alerts-dont-suck-your-alerts-suck/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-alerts-dont-suck-your-alerts-suck)
+- [CodeMash 2024 – Learning, Giving Back, and the Art of Community](https://www.sadukie.com/2024/01/11/codemash-2024-learning-giving-back-and-the-art-of-community/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-learning-giving-back-and-the-art-of-community)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
