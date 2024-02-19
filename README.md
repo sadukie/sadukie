@@ -83,10 +83,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Retiring from the Microsoft MVP program](https://www.sadukie.com/2024/02/01/retiring-from-the-microsoft-mvp-program/?utm_source=rss&utm_medium=rss&utm_campaign=retiring-from-the-microsoft-mvp-program)
 - [Why I Stepped Down from Stir Trek](https://www.sadukie.com/2024/01/18/why-i-stepped-down-from-stir-trek/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-stepped-down-from-stir-trek)
 - [CodeMash 2024 – Conference Sessions Review List](https://www.sadukie.com/2024/01/14/codemash-2024-conference-sessions-review-list/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-conference-sessions-review-list)
 - [CodeMash 2024: Dream Teams: Hiring &lpar;and Keeping&rpar; the Right People](https://www.sadukie.com/2024/01/12/codemash-2024-dream-teams-hiring-and-keeping-the-right-people/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-dream-teams-hiring-and-keeping-the-right-people)
-- [CodeMash 2024: Networking for Introverts: Build, Maintain, and Use Networks Without Being Creepy](https://www.sadukie.com/2024/01/12/codemash-2024-networking-for-introverts-build-maintain-and-use-networks-without-being-creepy/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-networking-for-introverts-build-maintain-and-use-networks-without-being-creepy)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
