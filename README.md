@@ -83,10 +83,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Humor and Professionalism in a Professional Environment](https://www.sadukie.com/2024/05/02/humor-and-professionalism-in-a-professional-environment/?utm_source=rss&utm_medium=rss&utm_campaign=humor-and-professionalism-in-a-professional-environment)
 - [CVS Specialty Pharmacy + Cosentyx – Feel the Pain with Me](https://www.sadukie.com/2024/02/20/cvs-specialty-pharmacy-cosentyx-feel-the-pain-with-me/?utm_source=rss&utm_medium=rss&utm_campaign=cvs-specialty-pharmacy-cosentyx-feel-the-pain-with-me)
 - [Retiring from the Microsoft MVP program](https://www.sadukie.com/2024/02/01/retiring-from-the-microsoft-mvp-program/?utm_source=rss&utm_medium=rss&utm_campaign=retiring-from-the-microsoft-mvp-program)
 - [Why I Stepped Down from Stir Trek](https://www.sadukie.com/2024/01/18/why-i-stepped-down-from-stir-trek/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-stepped-down-from-stir-trek)
-- [CodeMash 2024 – Conference Sessions Review List](https://www.sadukie.com/2024/01/14/codemash-2024-conference-sessions-review-list/?utm_source=rss&utm_medium=rss&utm_campaign=codemash-2024-conference-sessions-review-list)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
