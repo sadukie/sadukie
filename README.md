@@ -83,10 +83,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Musical Memories – Go-to Songs](https://www.sadukie.com/2024/07/01/musical-memories-go-to-songs/?utm_source=rss&utm_medium=rss&utm_campaign=musical-memories-go-to-songs)
 - [Bouncing Between Self-Employment and Other Employers](https://www.sadukie.com/2024/06/25/bouncing-between-self-employment-and-other-employers/?utm_source=rss&utm_medium=rss&utm_campaign=bouncing-between-self-employment-and-other-employers)
 - [Review of Refactoring: Improving the Design of Existing Code](https://www.sadukie.com/2024/06/17/review-of-refactoring-improving-the-design-of-existing-code/?utm_source=rss&utm_medium=rss&utm_campaign=review-of-refactoring-improving-the-design-of-existing-code)
 - [Review of 22 Immutable Laws of Marketing](https://www.sadukie.com/2024/06/12/review-of-22-immutable-laws-of-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=review-of-22-immutable-laws-of-marketing)
-- [Review of Art &amp; Fear](https://www.sadukie.com/2024/06/12/review-of-art-fear/?utm_source=rss&utm_medium=rss&utm_campaign=review-of-art-fear)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
