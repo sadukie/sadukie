@@ -83,10 +83,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Checking In](https://www.sadukie.com/2024/12/02/checking-in/?utm_source=rss&utm_medium=rss&utm_campaign=checking-in)
 - [Gemini Adventures: Skibidi Learning with Ohio Riz 🤔](https://www.sadukie.com/2024/07/12/gemini-adventures-skibidi-learning-with-ohio-riz-%f0%9f%a4%94/?utm_source=rss&utm_medium=rss&utm_campaign=gemini-adventures-skibidi-learning-with-ohio-riz-%25f0%259f%25a4%2594)
 - [Musical Memories – Go-to Songs](https://www.sadukie.com/2024/07/01/musical-memories-go-to-songs/?utm_source=rss&utm_medium=rss&utm_campaign=musical-memories-go-to-songs)
 - [Bouncing Between Self-Employment and Other Employers](https://www.sadukie.com/2024/06/25/bouncing-between-self-employment-and-other-employers/?utm_source=rss&utm_medium=rss&utm_campaign=bouncing-between-self-employment-and-other-employers)
-- [Review of Refactoring: Improving the Design of Existing Code](https://www.sadukie.com/2024/06/17/review-of-refactoring-improving-the-design-of-existing-code/?utm_source=rss&utm_medium=rss&utm_campaign=review-of-refactoring-improving-the-design-of-existing-code)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
