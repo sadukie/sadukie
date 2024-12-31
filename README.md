@@ -11,7 +11,6 @@
   - 🤝 [Contact me via <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://linkedin.com/in/sadukie)
 
   - <a href="https://twitter.com/sadukie"><img src="https://img.shields.io/twitter/follow/sadukie?style=social" alt="Twitter Badge"/></a>
-- 🏅 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4025435?fullName=Sarah%20E%20Dutkiewicz) in Developer Technologies since 2009
 - 🎓 Bachelor of Science degree, [Computer Science and Engineering Technology](https://www.utoledo.edu/engineering/engineering-technology/cset/), University of Toledo
   - 📚 Favorite course was **Applied Programming Languages** - which programming languages by paradigms, domains, etc.
 - 💻[Tools I Use](tools.md)
