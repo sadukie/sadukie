@@ -91,8 +91,8 @@ These are some of the tools I use in my role as a general technologist.
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
 
 <!-- DA-BLOG-POST:START -->
-- [Working with Postgres Extensions in Azure Cosmos DB for PostgreSQL while Scaling Nodes](https://data-adventurer.com/2023/02/15/working-with-postgres-extensions-in-azure-cosmos-db-for-postgresql-while-scaling-nodes/?utm_source=rss&utm_medium=rss&utm_campaign=working-with-postgres-extensions-in-azure-cosmos-db-for-postgresql-while-scaling-nodes)
-- [Where is my Azure Cosmos DB Free Trial account?](https://data-adventurer.com/2023/02/08/where-is-my-azure-cosmos-db-free-trial-account/?utm_source=rss&utm_medium=rss&utm_campaign=where-is-my-azure-cosmos-db-free-trial-account)
-- [Upcoming Appearances – Azure Cosmos DB Adventures!](https://data-adventurer.com/2023/01/26/upcoming-appearances-azure-cosmos-db-adventures/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-appearances-azure-cosmos-db-adventures)
-- [Azure Cosmos DB ❤️ PostgreSQL](https://data-adventurer.com/2022/11/02/azure-cosmos-db-%e2%9d%a4%ef%b8%8f-postgresql/?utm_source=rss&utm_medium=rss&utm_campaign=azure-cosmos-db-%25e2%259d%25a4%25ef%25b8%258f-postgresql)
+- [Working with Postgres Extensions in Azure Cosmos DB for PostgreSQL while Scaling Nodes](https://data-adventurer.com/2023/02/15/working-with-postgres-extensions-in-azure-cosmos-db-for-postgresql-while-scaling-nodes/)
+- [Where is my Azure Cosmos DB Free Trial account?](https://data-adventurer.com/2023/02/08/where-is-my-azure-cosmos-db-free-trial-account/)
+- [Upcoming Appearances – Azure Cosmos DB Adventures!](https://data-adventurer.com/2023/01/26/upcoming-appearances-azure-cosmos-db-adventures/)
+- [Azure Cosmos DB ❤️ PostgreSQL](https://data-adventurer.com/2022/11/02/azure-cosmos-db-%e2%9d%a4%ef%b8%8f-postgresql/)
 <!-- DA-BLOG-POST:END -->
