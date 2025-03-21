@@ -9,8 +9,6 @@
 - Let's talk!
   - ❓ Ask me about how to grow your career as a technologist.
   - 🤝 [Contact me via <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://linkedin.com/in/sadukie)
-
-  - <a href="https://twitter.com/sadukie"><img src="https://img.shields.io/twitter/follow/sadukie?style=social" alt="Twitter Badge"/></a>
 - 🎓 Bachelor of Science degree, [Computer Science and Engineering Technology](https://www.utoledo.edu/engineering/engineering-technology/cset/), University of Toledo
   - 📚 Favorite course was **Applied Programming Languages** - which programming languages by paradigms, domains, etc.
 - 💻[Tools I Use](tools.md)
