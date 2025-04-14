@@ -5,7 +5,7 @@ docs:
   url: https://sadukie.github.io/sadukie/
 
 - title: eShopOnWeb
-  url: ./projects/eShopOnWeb
+  url: /projects/eShopOnWeb
 
 - title: Clean Architecture Template
-  url: ./projects/clean-architecture-template
+  url: /projects/clean-architecture-template
