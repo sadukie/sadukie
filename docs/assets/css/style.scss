@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
-#header nav {
-    background-color: #757575;
+header {
+    background-image: none;
+    background-color: dodgerblue;
+    color: lemonchiffon;
 }
