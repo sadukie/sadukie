@@ -1,5 +1,5 @@
 baseurl: "/sadukie"
-title: Sadukie's Documentation Playgroup
+title: Sadukie's Documentation Playground
 description: For Sadukie to learn about GitHub Pages and to test in a safe space
 remote_theme: pages-themes/architect@v0.2.0
 plugins:

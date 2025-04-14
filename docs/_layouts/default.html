@@ -45,7 +45,7 @@
                {% for page in site.data.nav.pages %}
                     {% if page.url contains "http" %}
                         {% assign domain = '' %}
-                    {% elsif page.url contains 'mailto' %}
+                    {% elsif page.url contains "mailto" %}
                         {% assign domain = '' %}
                     {% else %}
                         {% assign domain = site.url | append: site.baseurl %}
