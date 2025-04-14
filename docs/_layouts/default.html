@@ -40,10 +40,17 @@
         </section>
 
         <aside id="sidebar">
-            <h2>{{ site.data.samplelist.docs_list_title }}</h2>
+            <h2>{{ site.data.nav.nav_title }}</h2>
             <ul>
-               {% for item in site.data.nav.docs %}
-                  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+               {% for page in site.data.nav.pages %}
+                    {% if page.url contains 'http' %}
+                        {% assign domain = '' %}
+                    {% elsif page.url contains 'mailto' %}
+                        {% assign domain = '' %}
+                    {% else %}
+                        {% assign domain = site.url | append: site.baseurl %}
+                    {% endif %}
+                  <li><a href="{{domain}}/{{ page.url }}">{{ page.title }}</a></li>
                {% endfor %}
             </ul>
 
