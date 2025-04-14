@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Sadukie's Documentation Playground"
 ---
 
