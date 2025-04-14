@@ -6,6 +6,6 @@ Let's document some open source adventures.
 
 ## Projects I Assist With
 
-- [eShopOnWeb](https://github.com/NimblePros/eShopOnWeb)
+- [eShopOnWeb](/projects/eShopOnWeb)
 - [DevIQ](https://github.com/ardalis/DevIQ-gatsby)
-- [Ardalis' Clean Architecture Template](https://github.com/ardalis/CleanArchitecture)
+- [Ardalis' Clean Architecture Template](/projects/clean-architecture-template)
