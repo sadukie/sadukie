@@ -4,8 +4,8 @@ docs:
 - title: Index
   url: https://sadukie.github.io/sadukie/
 
-- title: Projects
-  url: test
+- title: eShopOnWeb
+  url: ./projects/eShopOnWeb
 
-- title: Contact
-  url: test2
+- title: Clean Architecture Template
+  url: ./projects/clean-architecture-template
