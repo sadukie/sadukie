@@ -2,8 +2,10 @@
 title: "Sadukie's Documentation Playground"
 ---
 
-Determined to learn the GitHub pages markdown and configuration.
+Let's document some open source adventures.
 
-Testing all the themes.
+## Projects I Assist With
 
-We have a shop to set up!
+- [eShopOnWeb](https://github.com/NimblePros/eShopOnWeb)
+- [DevIQ](https://github.com/ardalis/DevIQ-gatsby)
+- [Ardalis' Clean Architecture Template](https://github.com/ardalis/CleanArchitecture)
