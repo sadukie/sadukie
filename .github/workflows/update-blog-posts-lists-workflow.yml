@@ -18,7 +18,7 @@ jobs:
           comment_tag_name: "SADUKIE-BLOG-POST"
           commit_message: "Updating blog posts from sadukie.com"
           max_post_count: "4"
-          feed_list: "https://www.sadukie.com/feed"
+          feed_list: "https://sadukie.github.io/sadukie-blog/feed.xml"
   update-readme-with-data-adventurer:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
