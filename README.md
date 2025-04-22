@@ -80,10 +80,8 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
-- [Getting Back to my Roots](https://www.sadukie.com/2025/01/02/getting-back-to-my-roots/?utm_source=rss&utm_medium=rss&utm_campaign=getting-back-to-my-roots)
-- [2024 in Review](https://www.sadukie.com/2024/12/30/2024-in-review/?utm_source=rss&utm_medium=rss&utm_campaign=2024-in-review)
-- [🎅 LINQing Up Christmas: .NET 9 Features in Action](https://www.sadukie.com/2024/12/06/%f0%9f%8e%85-linqing-up-christmas-net-9-features-in-action/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258e%2585-linqing-up-christmas-net-9-features-in-action)
-- [Checking In](https://www.sadukie.com/2024/12/02/checking-in/?utm_source=rss&utm_medium=rss&utm_campaign=checking-in)
+- [Sarah Broke It](https://sadukie.github.io/sadukie-blog/2025/04/21/sarah-broke-it.html)
+- [Getting Back to My Roots](https://sadukie.github.io/sadukie-blog/2025/01/02/getting-back-to-my-roots.html)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
