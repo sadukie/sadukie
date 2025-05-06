@@ -80,10 +80,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Stir Trek 2025 recap](https://sadukie.com/2025/05/04/stir-trek-2025-recap.html)
+- [Not Supposed to be Here Today](https://sadukie.com/2025/05/01/not-supposed-to-be-here.html)
 - [Why I Do Both Written Content and Videos](https://sadukie.com/2025/04/23/why-i-do-both-written-content-and-videos.html)
 - [Representation Matters](https://sadukie.com/2025/04/22/repesentation-matters.html)
-- [Sarah Broke It](https://sadukie.com/2025/04/21/sarah-broke-it.html)
-- [Getting Back to My Roots](https://sadukie.com/2025/01/02/getting-back-to-my-roots.html)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
