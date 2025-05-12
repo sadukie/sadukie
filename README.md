@@ -89,8 +89,8 @@ These are some of the tools I use in my role as a general technologist.
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
 
 <!-- DA-BLOG-POST:START -->
-- [Working with Postgres Extensions in Azure Cosmos DB for PostgreSQL while Scaling Nodes](https://data-adventurer.com/2023/02/15/working-with-postgres-extensions-in-azure-cosmos-db-for-postgresql-while-scaling-nodes/)
-- [Where is my Azure Cosmos DB Free Trial account?](https://data-adventurer.com/2023/02/08/where-is-my-azure-cosmos-db-free-trial-account/)
-- [Upcoming Appearances – Azure Cosmos DB Adventures!](https://data-adventurer.com/2023/01/26/upcoming-appearances-azure-cosmos-db-adventures/)
-- [Azure Cosmos DB ❤️ PostgreSQL](https://data-adventurer.com/2022/11/02/azure-cosmos-db-%e2%9d%a4%ef%b8%8f-postgresql/)
+- [Working with Postgres Extensions in Azure Cosmos DB for PostgreSQL while Scaling Nodes](http://data-adventurer.com/2023/02/15/working-with-postgres-extensions-in-azure-cosmos-db-for-postgresql-while-scaling-nodes.html)
+- [Where is my Azure Cosmos DB Free Trial account?](http://data-adventurer.com/2023/02/08/where-is-my-azure-cosmos-db-free-trial-account.html)
+- [Azure Cosmos DB ❤️ PostgreSQL](http://data-adventurer.com/2022/11/02/azure-cosmos-db-ef-b8-8f-postgresql.html)
+- [Azure Cosmos DB naming adventures](http://data-adventurer.com/2022/10/24/azure-cosmos-db-naming-adventures.html)
 <!-- DA-BLOG-POST:END -->
