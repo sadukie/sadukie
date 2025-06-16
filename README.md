@@ -80,10 +80,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Running Open WebUI + Ollama in Portainer](https://sadukie.com/2025/06/15/running-openwebui-and-ollama-in-portainer.html)
+- [Why Engineers Need More Than One Road](https://sadukie.com/2025/06/14/why-engineers-need-more-than-one-road.html)
 - [The Weight of Community Work](https://sadukie.com/2025/06/09/the-weight-of-community-work.html)
 - [The Unsung Heroes of Open Source: Why Transparency, Gratitude, and Sustainable Support Matter](https://sadukie.com/2025/06/08/the-unsung-heroes-of-open-source.html)
-- [No Apologies for Experiments](https://sadukie.com/2025/06/07/no-apologies-for-experiments.html)
-- [Choosing Not to Support Technologies](https://sadukie.com/2025/05/15/choosing-not-to-support-technologies.html)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
