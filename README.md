@@ -80,10 +80,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [A Week of Mondays](https://sadukie.com/2025/07/18/a-week-of-mondays.html)
 - [Vibe Coding a BINGO Caller](https://sadukie.com/2025/07/11/vibe-coding-bingo.html)
 - [The Tumbling E Developer - Or a Grown Up T-Shaped Developer](https://sadukie.com/2025/07/01/the-tumbling-e-developer.html)
 - [M365 Password Update Experience SUX](https://sadukie.com/2025/06/30/password-change-sux.html)
-- [Running Open WebUI + Ollama in Portainer](https://sadukie.com/2025/06/15/running-openwebui-and-ollama-in-portainer.html)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
