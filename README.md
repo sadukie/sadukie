@@ -74,7 +74,7 @@ These are some of the tools I use in my role as a general technologist.
 ### Platforms
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" width="40" alt="Azure" title="Azure" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="40" alt="Amazon Web Services" title="Amazon Web Services" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" alt="Amazon Web Services" title="Amazon Web Services" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="40" width="40" alt="Kaggle" title="Kaggle" />&nbsp;
 
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
