@@ -80,10 +80,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [Goals for 2026](https://sadukie.com/2026/01/06/goals-for-2026.html)
 - [2025 in Review](https://sadukie.com/2025/12/31/2025-in-review.html)
 - [On Writing a Book](https://sadukie.com/2025/12/08/on-writing-a-book.html)
 - [C# Advent 2025 - St. Nicholas Goodies](https://sadukie.com/2025/12/06/csadvent.html)
-- [Letting Go of a Domain](https://sadukie.com/2025/10/17/letting-go-of-a-domain.html)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
