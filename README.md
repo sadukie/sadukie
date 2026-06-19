@@ -80,10 +80,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [No Excuses for Manels](https://sadukie.com/2026/06/18/no-excuses-for-manels.html)
 - [First-Time Speaker Questions, Part 1](https://sadukie.com/2026/06/09/first-time-speaker-questions-part-1.html)
 - [Thoughts on ‘Well, Actually’ Man or Maybe Neurospicy Man?](https://sadukie.com/2026/04/28/thoughts-on-well-actually-man.html)
 - [Is AI a Yes Man?](https://sadukie.com/2026/03/24/is-ai-a-yes-man.html)
-- [Sadukie Explores Programming Language Personas](https://sadukie.com/2026/02/09/language-personas.html)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
