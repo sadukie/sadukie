@@ -80,10 +80,10 @@ These are some of the tools I use in my role as a general technologist.
 ## ✍🏻Blog Posts from [Sadukie.com](https://www.sadukie.com)
 
 <!-- SADUKIE-BLOG-POST:START -->
+- [The Importance of Emotional Safety](https://sadukie.com/2026/07/12/the-importance-of-emotional-safety.html)
 - [The Plight of Women in Tech 20+ Years Later](https://sadukie.com/2026/07/01/the-plight-of-women-in-tech.html)
 - [First-Time Speaker Questions, Part 2 - The Secrets of Submitting Talks](https://sadukie.com/2026/06/25/first-time-speaker-questions-part-2.html)
 - [No Excuses for Manels](https://sadukie.com/2026/06/18/no-excuses-for-manels.html)
-- [First-Time Speaker Questions, Part 1 - First Speaking Opportunities](https://sadukie.com/2026/06/09/first-time-speaker-questions-part-1.html)
 <!-- SADUKIE-BLOG-POST:END -->
 
 ## 📊Blog Posts from [Data-Adventurer.com](https://www.data-adventurer.com)
