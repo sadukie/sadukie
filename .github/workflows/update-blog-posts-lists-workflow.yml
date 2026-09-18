@@ -12,7 +12,7 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "SADUKIE-BLOG-POST"
@@ -23,7 +23,7 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "DA-BLOG-POST"
